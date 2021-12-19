@@ -4,6 +4,19 @@
 
 
 
+#### MVC 패턴이란
+M = Model -> 데이터베이스에 데이터를 가져오거나 변경 또는 저장하는 부분
+V = View -> 사용자에게 보여지는 부분
+C = Controller -> 사용자 요청에 따른 Model, view를 유기적으로 연결하는 부분
+
+- 각자의 역할 
+Model에서는 처음에 정의하는 상수, 초기화값, 변수 등을 뜻하며 DATA 정보들의 가공을 책임지는 컴포넌트를 말한다. (데이터베이스)
+View에서는 클라이언트 측 기술인 html/css/javascript들을 모아둔 컨테이너로 프론트엔트 부분을 담당한다.
+Controller에서는 사용자가 접근한 URL에 따라 요청사항을 파악한 후, 그 요청에 맞는 데이터를 Model에 의뢰 및 View에 반영해서 사용자에게 알려주는 것을 담당한다.
+*여기서 든 나의 생각 -> Model은 백엔드, View는 클라이언트, 이둘을 이어주는 Controller 로 정리되는 것 같다.
+
+
+
 #### 프로젝트 목적
 - 이클립스에 스프링 프레임워크를 깔아서 MVC 패턴을 공부해서 git에 올리는 실습을 수행해보았습니다.
 - 깃허브 사용과 프레임워크 개념 등을 알기위해 시작하였습니다 (감사한 선배님 덕분에 시작!!)
@@ -36,8 +49,10 @@
 - [자바 버전에 맞는 톰캣 고르기 어려움 해결](https://blog.naver.com/PostView.nhn?blogId=bestheroz&logNo=221321296597&parentCategoryNo=&categoryNo=23&viewDate=&isShowPopularPosts=true&from=search)
 - [Spring MVC 프로젝트를 생성하여 톰캣에서 실행하기 가장 도움된 사이트](https://www.hanumoka.net/2018/04/08/spring-20180408-spring-start-spring-legacy-project/)
 - [깃 설치](https://goddaehee.tistory.com/216)
+- [이클립스 깃허브 연동](https://lifere.tistory.com/143)
 - [push 시 깃허브 로그인 오류 해결 참조](https://kitty-geno.tistory.com/89)
 - [push 시 깃허브 로그인 오류 해결 참조2](https://joytk.tistory.com/58)
+- [로그인 오류해결을 위한 토큰발급](https://happycloud-lee.tistory.com/231)
 - [완전 도움된 깃허브에 mvc 프로젝트 올리는법 연동](https://lifere.tistory.com/143)
 - [개념/ 스프링, 스프링부트, 스프링 mvc 차이](http://dawoonjeong.com/spring-spring_mvc-vs-spring_boot-vs-spring_mvc/)
 - [마크다운 작성 요령 참조](https://ffoorreeuunn.tistory.com/226)
