@@ -1,11 +1,11 @@
 ## sunwoo_first
 
-###프로젝트 목적
+### 프로젝트 목적
 #### 이클립스에 스프링 프레임워크를 깔아서 MVC 패턴을 공부해서 git에 올리는 실습을 수행해보았습니다.
 #### 깃허브 사용과 프레임워크 개념 등을 알기위해 시작하였습니다 (감사한 선배님 덕분에 시작!!)
 
-###어려웠던 점
-####정말 많았습니다.... 
+### 어려웠던 점
+#### 정말 많았습니다.... 
 #### 우선 스프링을 이클립스에 설치하는 과정까지는 괜찮았습니다
 #### 그이후에 간단한 MVC PROJECT를 만들었는데 그 과정에서 많은 어려움이 있었습니다. 
 #### 경로설정, 자바 버전알기, 이로부터 파생되는 톰킷 버전들 알기, 무턱대고 next를 넘기면서 놓쳤던 부분으로 일어나는 오류들.... 
@@ -22,15 +22,15 @@
 
 
 
-##각종 참고 자료
-[이클립스에 스프링 설치] (https://curiousing.tistory.com/17)
-[스프링 프레임워크 설치 참조] (https://all-record.tistory.com/154?category=733072)
-[스프링 MVC 참조예제] (https://bin-repository.tistory.com/87?category=879445)
-[자바 버전에 맞는 톰캣 고르기 어려움 해결] (https://blog.naver.com/PostView.nhn?blogId=bestheroz&logNo=221321296597&parentCategoryNo=&categoryNo=23&viewDate=&isShowPopularPosts=true&from=search)
-[Spring MVC 프로젝트를 생성하여 톰캣에서 실행하기 가장 도움된 사이트] (https://www.hanumoka.net/2018/04/08/spring-20180408-spring-start-spring-legacy-project/)
-[깃 설치] (https://goddaehee.tistory.com/216)
-[push 시 깃허브 로그인 오류 해결 참조] (https://kitty-geno.tistory.com/89)
-[push 시 깃허브 로그인 오류 해결 참조2] (https://joytk.tistory.com/58)
-[완전 도움된 깃허브에 mvc 프로젝트 올리는법 연동] (https://lifere.tistory.com/143)
-[개념/ 스프링, 스프링부트, 스프링 mvc 차이] (http://dawoonjeong.com/spring-spring_mvc-vs-spring_boot-vs-spring_mvc/)
-[마크다운 작성 요령 참조] (https://ffoorreeuunn.tistory.com/226)
+## 각종 참고 자료
+- [이클립스에 스프링 설치](https://curiousing.tistory.com/17)
+- [스프링 프레임워크 설치 참조](https://all-record.tistory.com/154?category=733072)
+- [스프링 MVC 참조예제](https://bin-repository.tistory.com/87?category=879445)
+- [자바 버전에 맞는 톰캣 고르기 어려움 해결](https://blog.naver.com/PostView.nhn?blogId=bestheroz&logNo=221321296597&parentCategoryNo=&categoryNo=23&viewDate=&isShowPopularPosts=true&from=search)
+- [Spring MVC 프로젝트를 생성하여 톰캣에서 실행하기 가장 도움된 사이트](https://www.hanumoka.net/2018/04/08/spring-20180408-spring-start-spring-legacy-project/)
+- [깃 설치](https://goddaehee.tistory.com/216)
+- [push 시 깃허브 로그인 오류 해결 참조](https://kitty-geno.tistory.com/89)
+- [push 시 깃허브 로그인 오류 해결 참조2](https://joytk.tistory.com/58)
+- [완전 도움된 깃허브에 mvc 프로젝트 올리는법 연동](https://lifere.tistory.com/143)
+- [개념/ 스프링, 스프링부트, 스프링 mvc 차이](http://dawoonjeong.com/spring-spring_mvc-vs-spring_boot-vs-spring_mvc/)
+- [마크다운 작성 요령 참조](https://ffoorreeuunn.tistory.com/226)
