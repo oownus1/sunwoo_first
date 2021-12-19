@@ -5,7 +5,7 @@
 
 
 #### MVC 패턴이란
-![Uploading 화면 캡처 2021-12-20 055003.png…]()
+![화면 캡처 2021-12-20 055003](https://user-images.githubusercontent.com/66655878/146690358-42c1760a-57e6-4ef9-88b6-2be29403de4d.png)
 
 M = Model -> 데이터베이스에 데이터를 가져오거나 변경 또는 저장하는 부분
 V = View -> 사용자에게 보여지는 부분
