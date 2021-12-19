@@ -30,8 +30,8 @@
 
 #### 각종 참고 자료
 
-[이클립스에 스프링 설치] (https://curiousing.tistory.com/17)
-[스프링 프레임워크 설치 참조] (https://all-record.tistory.com/154?category=733072)
+[이클립스에 스프링 설치](https://curiousing.tistory.com/17, "tistory link")
+[스프링 프레임워크 설치 참조](https://all-record.tistory.com/154?category=733072)
 [스프링 MVC 참조예제] (https://bin-repository.tistory.com/87?category=879445)
 [자바 버전에 맞는 톰캣 고르기 어려움 해결] (https://blog.naver.com/PostView.nhn?blogId=bestheroz&logNo=221321296597&parentCategoryNo=&categoryNo=23&viewDate=&isShowPopularPosts=true&from=search)
 [Spring MVC 프로젝트를 생성하여 톰캣에서 실행하기 가장 도움된 사이트] (https://www.hanumoka.net/2018/04/08/spring-20180408-spring-start-spring-legacy-project/)
